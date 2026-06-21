@@ -1,4 +1,4 @@
-# 🚀 Yet Another Store for Yay
+# 🥤 Yet Another Store for Yay
 
 > A modern, premium GUI wrapper for the **Yay (AUR Helper)** (`yay`) package manager.
 
